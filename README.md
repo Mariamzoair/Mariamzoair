@@ -24,11 +24,11 @@
 
 I'm **Mariam Zoair**, a passionate Biomedical Engineering M.S. candidate at **NYU Tandon** with a unique blend of scientific research expertise and business acumen. My journey spans from cutting-edge laboratory research to retail management, giving me a comprehensive understanding of both innovation and market application.
 
-**🎯 What I Do:**
-- 🔬 **Biomedical Research**: Drug delivery systems, neuroscience, biomechanics
-- 📊 **Data Science**: Python, R, MATLAB for biomedical analytics
-- 💊 **Product Development**: From concept to market-ready solutions
-- 🏥 **Healthcare Innovation**: Bridging research and real-world applications
+** What I Do:**
+- **Biomedical Research**: Drug delivery systems, neuroscience, biomechanics
+- **Data Science**: Python, R, MATLAB for biomedical analytics
+- **Product Development**: From concept to market-ready solutions
+- **Healthcare Innovation**: Bridging research and real-world applications
 
 **🌍 Languages:** English (Fluent) • Arabic (Native)
 
@@ -138,7 +138,7 @@ I'm **Mariam Zoair**, a passionate Biomedical Engineering M.S. candidate at **NY
 
 <div align="center">
   
-### 💡 Featured Projects
+### Featured Projects
 
 </div>
 
@@ -269,7 +269,7 @@ R • Bioinformatics • Data Analysis
 </tr>
 </table>
 
-### 📊 Data Libraries
+### Data Libraries
 <table>
 <tr>
 <td align="center" width="25%">
@@ -375,38 +375,38 @@ R • Bioinformatics • Data Analysis
 <tr>
 <td width="33%" align="center">
   
-### 🎯 **IMMEDIATE GOALS**
+### **IMMEDIATE GOALS**
 *Next 2-3 Years*
 
-🎓 **Complete M.S. in Biomedical Engineering**  
-💼 **Secure R&D Position** in pharmaceutical/medical device industry  
-🔬 **Publish Research** in peer-reviewed journals  
-🏆 **Obtain Industry Certifications** (GMP, Six Sigma)  
-🌐 **Build Professional Network** globally  
+→ **Complete M.S. in Biomedical Engineering**  
+→ **Secure R&D Position** in pharmaceutical/medical device industry  
+→ **Publish Research** in peer-reviewed journals  
+→ **Obtain Industry Certifications** (GMP, Six Sigma)  
+→ **Build Professional Network** globally  
 
 </td>
 <td width="33%" align="center">
   
-### 🚀 **MID-TERM VISION**
+### **MID-TERM VISION**
 *5-7 Years*
 
-👩‍💼 **Lead Cross-Functional Teams** in product development  
-💡 **Drive Innovation** in drug delivery systems  
-🎯 **Specialize in Regulatory Affairs** & quality assurance  
-🌍 **Expand International Collaborations**  
-📊 **Integrate AI/ML** in biomedical applications  
+→ **Lead Cross-Functional Teams** in product development  
+→ **Drive Innovation** in drug delivery systems  
+→ **Specialize in Regulatory Affairs** & quality assurance  
+→ **Expand International Collaborations**  
+→ **Integrate AI/ML** in biomedical applications  
 
 </td>
 <td width="33%" align="center">
   
-### 🌟 **LONG-TERM LEGACY**
+### **LONG-TERM LEGACY**
 *10+ Years*
 
-🏭 **Chief Innovation Officer** role  
-🌍 **Global Healthcare Impact** through breakthrough solutions  
-🎓 **Mentor Next Generation** of biomedical engineers  
-🏆 **Industry Recognition** for transformative contributions  
-🤝 **Bridge Global Health Disparities**  
+→ **Chief Innovation Officer** role  
+→ **Global Healthcare Impact** through breakthrough solutions  
+→ **Mentor Next Generation** of biomedical engineers  
+→ **Industry Recognition** for transformative contributions  
+→ **Bridge Global Health Disparities**  
 
 </td>
 </tr>
@@ -422,7 +422,7 @@ R • Bioinformatics • Data Analysis
 
 ---
 
-## 🌟 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
   
@@ -443,7 +443,7 @@ R • Bioinformatics • Data Analysis
 
 <div align="center">
   
-**💫 "Transforming scientific discoveries into solutions that make a real difference in people's lives" 💫**
+** "Transforming scientific discoveries into solutions that make a real difference in people's lives" **
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
