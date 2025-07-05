@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -155,7 +155,7 @@ Optimizing controlled drug release through advanced polymer coating analysis
 **Tech Stack:**  
 Python • MATLAB • Statistical Analysis
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/mariam-zoair/microneedle-drug-coatings)
+[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Mariamzoair/Microneedles-for-Drug-Delivery)
 
 </td>
 <td width="25%" align="center">
@@ -169,7 +169,7 @@ Understanding astrocyte behavior in neurodegenerative diseases
 **Tech Stack:**  
 ImageJ • Microscopy • Data Visualization
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/mariam-zoair/astrocyte-alzheimer-study)
+[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Mariamzoair/Physiological-Aspects-of-Astrocytes)
 
 </td>
 <td width="25%" align="center">
@@ -183,7 +183,7 @@ Linking kinematics to tissue stress for injury prevention
 **Tech Stack:**  
 MATLAB • Biomechanical Analysis • ML
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/mariam-zoair/sports-biomechanics)
+[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Mariamzoair/Biomechanics-of-Sports-Injuries)
 
 </td>
 <td width="25%" align="center">
@@ -197,7 +197,7 @@ Profiling ACE2 receptor expression in neural tissue
 **Tech Stack:**  
 R • Bioinformatics • Data Analysis
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/mariam-zoair/covid-brain-pathways)
+[![Repository](https://img.shields.io/badge/Repository-View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Mariamzoair/SARS-CoV-2-into-Brain-Cells)
 
 </td>
 </tr>
