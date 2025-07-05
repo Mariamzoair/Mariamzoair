@@ -242,27 +242,27 @@ R • Bioinformatics • Data Analysis
 ### 🔬 Laboratory & Research
 <table>
 <tr>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/🔬-Microscopy-FF6B6B?style=flat" width="48" height="20" alt="Microscopy"/><br/>
   <strong>Microscopy</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/⚗️-Spectrophotometry-4ECDC4?style=flat" width="48" height="20" alt="Spectrophotometry"/><br/>
   <strong>Spectrophotometry</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/🧪-Cell_Culture-A8E6CF?style=flat" width="48" height="20" alt="Cell Culture"/><br/>
   <strong>Cell Culture</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/🛡️-GMP_Compliance-FF8B94?style=flat" width="48" height="20" alt="GMP"/><br/>
   <strong>GMP Compliance</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/🧬-Immunostaining-C7CEEA?style=flat" width="48" height="20" alt="Immunostaining"/><br/>
   <strong>Immunostaining</strong>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="18.66%">
   <img src="https://img.shields.io/badge/📊-ImageJ-00D2FF?style=flat" width="48" height="20" alt="ImageJ"/><br/>
   <strong>ImageJ</strong>
 </td>
