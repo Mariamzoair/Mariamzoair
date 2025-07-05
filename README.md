@@ -367,52 +367,7 @@ R • Bioinformatics • Data Analysis
 
 </div>
 
-
-
-<div align="center">
-  
-<table>
-<tr>
-<td width="33%" align="center">
-  
-### 🎯 **IMMEDIATE FOCUS**
-*Next 2-3 Years*
-
-🎓 **Complete M.S. in Biomedical Engineering**  
-💼 **Secure R&D Position** in pharmaceutical/medical device industry  
-🔬 **Publish Research** in peer-reviewed journals  
-🏆 **Obtain Industry Certifications** (GMP, Six Sigma)  
-🌐 **Build Professional Network** globally  
-
-</td>
-<td width="33%" align="center">
-  
-### 🚀 **GROWTH TRAJECTORY**
-*5-7 Years*
-
-👩‍💼 **Lead Cross-Functional Teams** in product development  
-💡 **Drive Innovation** in drug delivery systems  
-🎯 **Specialize in Regulatory Affairs** & quality assurance  
-🌍 **Expand International Collaborations**  
-📊 **Integrate AI/ML** in biomedical applications  
-
-</td>
-<td width="33%" align="center">
-  
-### 🌟 **ULTIMATE VISION**
-*10+ Years*
-
-🏭 **Chief Innovation Officer** role  
-🌍 **Global Healthcare Impact** through breakthrough solutions  
-🎓 **Mentor Next Generation** of biomedical engineers  
-🏆 **Industry Recognition** for transformative contributions  
-🤝 **Bridge Global Health Disparities**  
-
-</td>
-</tr>
-</table>
-
-</div>
+##
 
 <div align="center">
   
