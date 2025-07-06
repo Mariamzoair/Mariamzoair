@@ -67,7 +67,7 @@ I'm **Mariam Zoair**, a passionate Biomedical Engineering M.S. candidate at **NY
   
 <img src="https://img.shields.io/badge/🎓_NJCU-B.S._Biology_(3.7_GPA)-667eea?style=for-the-badge&logoColor=white" />
 <br/>
-<sub><strong>Graduated: 2022</strong></sub>
+<sub><strong>Graduated: 2023</strong></sub>
 
 </td>
 </tr>
